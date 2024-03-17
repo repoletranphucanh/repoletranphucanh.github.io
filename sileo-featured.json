@@ -4,9 +4,9 @@
     "itemCornerRadius": 10,
     "banners": [
         {
-            "title": "REPO BVN",
+            "title": "REPO LTPA",
             "package": "com.repobvn.youpip",
-            "url": "https://bvnsupport.github.io/features/sileo.png"
+            "url": "https://bvnsupport.github.io/features/"
          },
         {
            "title": "YouPiP",
